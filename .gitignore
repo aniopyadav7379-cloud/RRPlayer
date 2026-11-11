@@ -1,0 +1,7 @@
+pipeline/build/
+pipeline/*.pkl
+pipeline/figs/
+pipeline/report.html
+data_raw/*.csv
+data_raw/*.zip
+__pycache__/
